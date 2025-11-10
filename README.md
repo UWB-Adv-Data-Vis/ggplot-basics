@@ -31,9 +31,6 @@ Recreate the following figures:
 - Figure 3.13
 - Figure 3.16
 
-As you work on the figures, you can follow along with a previous tutorial for this chapter, but this video doesn't include the git commits you should be completing. Be sure to submit this assignment as instructed below.
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/n4q6pcFSqy0/0.jpg)](http://www.youtube.com/watch?v=n4q6pcFSqy0)
 
 Write a commit message as you complete each figure used to build the main visuals. 
 There should be commits for the following states being made in Figure 3.13 chunk: 
@@ -81,8 +78,8 @@ Console:
 - `install.packages("gapminder")`
 
 - `install.packages("shiny")`
-```
 
+```
 ### Figure 3.13
 
 Here, you will make your figure. You can write a commit for each figure or error leading up to the figure that matches. Be sure to include commits of the transitions and name the figures, such as "Recreating Figure 3.4" and "Recreating Figure 3.7". Practicing frequent commits is a great habit.
@@ -96,6 +93,13 @@ Continue practicing by accessing an unfamiliar data set from another package.
 You can load a dataset of your choice to show you can build a graphic using ggplot layers.
 Here are some sample data sets 
 [https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
+```
 
+## Extra help - Use with caution
 
+- A video walk through chapter is below.
+- his video doesn't include the git commits you should be completing.
+- Be sure to submit this assignment as instructed above.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/n4q6pcFSqy0/0.jpg)](http://www.youtube.com/watch?v=n4q6pcFSqy0)
 
