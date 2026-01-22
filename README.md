@@ -91,10 +91,11 @@ Here, you will make your figure. Continue to write a commit for the figures.
 ### Orignal graph
 
 Continue practicing by accessing an unfamiliar data set from another package.
+
+```
 You can load a dataset of your choice to show you can build a graphic using ggplot layers.
 Here are some sample data sets 
 [https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
-```
 
 ## Extra help - Use with caution!
 
